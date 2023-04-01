@@ -1,3 +1,4 @@
 title: FastAuth
 description: FastAuth Authentificator
 theme: jekyll-theme-hacker
+markdown: kramdown
