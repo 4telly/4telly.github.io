@@ -26,5 +26,9 @@ We take appropriate measures to protect your information from unauthorized acces
 
 We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by email or through the FastAuth app.
 
+### **MongoDB**
+
+FastAuth uses MongoDB to store passwords and TOTP keys locally. No data is transferred to MongoDB servers outside of your device.
+
 ## Contact Us:
 If you have any questions or concerns about our Privacy Policy, please contact us at [z4telly@outlook.com](mailto:z4telly@outlook.com).
